@@ -1,5 +1,5 @@
 {
-  description = ''Humanize elapsed time'';
+  description = ''Library to humanize elapsed times'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";

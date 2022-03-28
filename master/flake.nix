@@ -11,7 +11,6 @@
   inputs.src-eternity-master.ref   = "refs/heads/master";
   inputs.src-eternity-master.owner = "hiteshjasani";
   inputs.src-eternity-master.repo  = "nim-eternity";
-  inputs.src-eternity-master.dir   = "";
   inputs.src-eternity-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

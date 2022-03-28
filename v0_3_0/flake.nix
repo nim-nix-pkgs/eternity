@@ -11,7 +11,6 @@
   inputs.src-eternity-v0_3_0.ref   = "refs/tags/v0.3.0";
   inputs.src-eternity-v0_3_0.owner = "hiteshjasani";
   inputs.src-eternity-v0_3_0.repo  = "nim-eternity";
-  inputs.src-eternity-v0_3_0.dir   = "";
   inputs.src-eternity-v0_3_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

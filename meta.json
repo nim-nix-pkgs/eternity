@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/hiteshjasani/nim-eternity",
   "refs": [
-    "fatal: unable to access 'https://github.com/hiteshjasani/nim-eternity/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/hiteshjasani/nim-eternity/': SSL connection timeout",
     ""
   ],
   "heads": []
